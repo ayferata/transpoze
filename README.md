@@ -7,7 +7,8 @@ Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları il
 
 Matris : 
 2    3    4    
-5    6    4    
+5    6    4   
+
 Transpoze : 
 2    5    
 3    6    
